@@ -18,3 +18,7 @@ curl https://packages.microsoft.com/config/centos/7/prod.repo > /etc/yum.repos.d
 # Install dependencies and mssql-cli
 sudo yum install libunwind
 sudo yum install mssql-cli
+
+
+
+https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view=sql-server-ver15#SLES
