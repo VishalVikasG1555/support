@@ -22,4 +22,6 @@ sudo yum install mssql-cli
 
 
 https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view=sql-server-ver15#SLES
+
+
 Error response from daemon: manifest for ncr-passport-docker-group.jfrog.io/cpwe-capture:3.18.0.0-4.0.0 not found
