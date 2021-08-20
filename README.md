@@ -26,3 +26,12 @@ https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view=sql
 
 Error response from daemon: manifest for ncr-passport-docker-group.jfrog.io/cpwe-capture:3.18.0.0-4.0.0 not found
 Sqlcmd: Error: Microsoft ODBC Driver 17 for SQL Server : TCP Provider: Error code 0x2AF9.
+
+
+https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/
+
+https://www.tutorialspoint.com/data_structures_algorithms/searching_algorithms.htm
+
+https://www.geeksforgeeks.org/searching-algorithms/
+
+https://www.google.com/amp/s/www.geeksforgeeks.org/understanding-time-complexity-simple-examples/amp/
