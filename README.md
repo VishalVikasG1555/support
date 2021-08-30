@@ -37,5 +37,5 @@ https://www.geeksforgeeks.org/searching-algorithms/
 https://www.google.com/amp/s/www.geeksforgeeks.org/understanding-time-complexity-simple-examples/amp/
 
 
-
+curl -XGET --user elastic:password http://localhost:9200/?pretty
 
